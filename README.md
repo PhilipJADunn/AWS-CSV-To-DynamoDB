@@ -1,4 +1,4 @@
-# CSV-To-DynamoDB
+# AWS-CSV-To-DynamoDB
 
 Bulk upload a CSV file into DynamoDB using S3 and a Lambda function via IaC.
 
