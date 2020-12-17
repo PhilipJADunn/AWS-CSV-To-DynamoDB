@@ -14,7 +14,7 @@ Next we have to specify the parameters set out in the YAML file:
 
 ![2  Parameters](https://user-images.githubusercontent.com/68379635/102357372-243c8880-3fa6-11eb-8ef9-2defa5d12830.PNG)
 
-After this we can create our CloudFormation stack and we can see services being created in the Events tab, note that this can fail if the S3 bucket parameter you choose is already is use by somebody else:
+After this we can create our CloudFormation stack and we can see services being created in the Events tab, note that this can fail if the S3 bucket parameter you choose is already in use by somebody else:
 
 ![4  Resources being created](https://user-images.githubusercontent.com/68379635/102358810-db85cf00-3fa7-11eb-833a-9ad47b5b568e.PNG)
 
